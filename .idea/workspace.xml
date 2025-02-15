@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="830855a9-ade2-48a2-ba12-68010c6d4e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hospital.utils.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hospital.utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="830855a9-ade2-48a2-ba12-68010c6d4e39" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
