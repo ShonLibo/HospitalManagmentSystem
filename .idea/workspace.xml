@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hospital.data/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hospital.utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.app/src/main/java/hospital/app/HospitalAppMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.app/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.ui.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/src/main/java/module-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,11 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HospitalAppMain.executor": "Run",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <servers />
   </component>
