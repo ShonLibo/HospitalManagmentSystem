@@ -42,6 +42,9 @@ class PanelsTest {
     }
 
     @Test
-    void createViewPanel() {
+    public void testcreateViewPanel() {
+        JPanel panel = Panels.createViewPanel();
+        assertNotNull(panel);
+        assertTrue(panel.getComponentCount() > 0);
     }
 }
