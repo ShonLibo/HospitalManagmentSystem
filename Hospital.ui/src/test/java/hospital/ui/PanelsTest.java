@@ -35,7 +35,10 @@ class PanelsTest {
     }
 
     @Test
-    void createAppointmentPanel() {
+   public void testcreateAppointmentPanel() {
+        JPanel panel = Panels.createAppointmentPanel();
+        assertNotNull(panel);
+        assertTrue(panel.getComponentCount() > 0);
     }
 
     @Test
