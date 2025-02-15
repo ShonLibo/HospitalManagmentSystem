@@ -28,7 +28,10 @@ class PanelsTest {
     }
 
     @Test
-    void createDoctorPanel() {
+   public void testcreateDoctorPanel() {
+        JPanel panel = Panels.createDoctorPanel();
+        assertNotNull(panel);
+        assertTrue(panel.getComponentCount() > 0);
     }
 
     @Test

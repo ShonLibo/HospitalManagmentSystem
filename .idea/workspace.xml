@@ -53,7 +53,7 @@
       <recent name="hospital.ui" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PanelsTest.testcreatePatientPanel">
+  <component name="RunManager" selected="JUnit.PanelsTest.testcreateDoctorPanel">
     <configuration name="MenuPanelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hospital.ui" />
       <extension name="coverage">
@@ -85,6 +85,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PanelsTest.testcreateDoctorPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hospital.ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hospital.ui" />
+      <option name="MAIN_CLASS_NAME" value="hospital.ui.PanelsTest" />
+      <option name="METHOD_NAME" value="testcreateDoctorPanel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PanelsTest.testcreatePatientPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hospital.ui" />
       <extension name="coverage">
@@ -103,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PanelsTest.testcreateDoctorPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreatePatientPanel" />
         <item itemvalue="JUnit.PanelsTest.testcaseHomePanel" />
         <item itemvalue="JUnit.MenuPanelTest" />
