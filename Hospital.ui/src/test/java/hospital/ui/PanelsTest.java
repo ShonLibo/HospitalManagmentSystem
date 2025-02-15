@@ -7,18 +7,24 @@ import javax.swing.*;
 
 import java.awt.*;
 
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 class PanelsTest {
 
     @Test
     public void testcaseHomePanel() {
         JPanel panel = Panels.createHomePanel();
-        Assertions.assertNotNull(panel);
+        assertNotNull(panel);
         Assertions.assertEquals(Color.LIGHT_GRAY, panel.getBackground());
-        Assertions.assertTrue(panel.getComponent(0) instanceof JLabel);
+        assertTrue(panel.getComponent(0) instanceof JLabel);
     }
 
     @Test
-    void createPatientPanel() {
+    public void testcreatePatientPanel() {
+        JPanel panel = Panels.createPatientPanel();
+        assertNotNull(panel);
+        assertTrue(panel.getComponentCount() > 0);
     }
 
     @Test

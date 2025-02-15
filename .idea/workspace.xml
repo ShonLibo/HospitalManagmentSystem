@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.data/target/classes/hospital/data/DataStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.data/target/classes/hospital/data/DataStorage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.data/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.data/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/classes/hospital/ui/MenuPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/classes/hospital/ui/MenuPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/classes/hospital/ui/Panels.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/classes/hospital/ui/Panels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/classes/hospital/ui/UIComponents.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/classes/hospital/ui/UIComponents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.utils/target/classes/hospital/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.utils/target/classes/hospital/utils/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hospital.utils/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.utils/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +53,7 @@
       <recent name="hospital.ui" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PanelsTest.testcaseHomePanel">
+  <component name="RunManager" selected="JUnit.PanelsTest.testcreatePatientPanel">
     <configuration name="MenuPanelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hospital.ui" />
       <extension name="coverage">
@@ -94,8 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PanelsTest.testcreatePatientPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hospital.ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hospital.ui" />
+      <option name="MAIN_CLASS_NAME" value="hospital.ui.PanelsTest" />
+      <option name="METHOD_NAME" value="testcreatePatientPanel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PanelsTest.testcreatePatientPanel" />
         <item itemvalue="JUnit.PanelsTest.testcaseHomePanel" />
         <item itemvalue="JUnit.MenuPanelTest" />
       </list>
@@ -117,8 +125,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java</url>
-          <line>13</line>
-          <properties class="hospital.ui.PanelsTest" method="testcreateHomePanel">
+          <line>15</line>
+          <properties class="hospital.ui.PanelsTest" method="testcaseHomePanel">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
