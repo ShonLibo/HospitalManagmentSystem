@@ -66,7 +66,7 @@ pipeline {
     stages {
         stage('Checkout') { // Fetches source code from GitHub
             steps {
-                git branch: 'main', url: ''
+                git branch: 'main', url: 'https://github.com/ShonLibo/HospitalManagmentSystem.git'
             }
         }
 
