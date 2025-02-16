@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/test-classes/hospital/ui/MenuPanelTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/test-classes/hospital/ui/MenuPanelTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/test-classes/hospital/ui/MenuPanelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/test-classes/hospital/ui/MenuPanelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital.ui/target/test-classes/hospital/ui/PanelsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/target/test-classes/hospital/ui/PanelsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital.utils/target/classes/hospital/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.utils/target/classes/hospital/utils/Utils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SamsonNeyo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShonLibo/HospitalManagmentSystem.git&quot;,
+    &quot;accountId&quot;: &quot;0aa178af-251c-44bd-a18d-a51bcea63faf&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/MenuPanelTest.java" root0="SKIP_INSPECTION" />
   </component>
@@ -38,11 +55,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HospitalAppMain.executor": "Run",
+    "JUnit.PanelsTest.testcreateViewPanel.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,19 +75,16 @@
       <recent name="hospital.ui" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PanelsTest.testcreateViewPanel">
-    <configuration name="PanelsTest.testcaseHomePanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hospital.ui" />
+  <component name="RunManager" selected="Application.HospitalAppMain">
+    <configuration name="HospitalAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.app.HospitalAppMain" />
+      <module name="Hospital.app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hospital.ui.*" />
+          <option name="PATTERN" value="hospital.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hospital.ui" />
-      <option name="MAIN_CLASS_NAME" value="hospital.ui.PanelsTest" />
-      <option name="METHOD_NAME" value="testcaseHomePanel" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HospitalAppMain" />
         <item itemvalue="JUnit.PanelsTest.testcreateViewPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateAppointmentPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateDoctorPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreatePatientPanel" />
-        <item itemvalue="JUnit.PanelsTest.testcaseHomePanel" />
       </list>
     </recent_temporary>
   </component>
