@@ -63,6 +63,12 @@
 pipeline {
     agent any
 
+    environment {
+            ITCH_API_KEY = credentials('ivymO7TQbEZazejnI5bvfousSX7A9GXGn1Ebfz3s') // Reference the credential ID
+            ITCH_USER = 'Natty50'
+            ITCH_GAME = 'Hospital Management System'
+        }
+
     stages {
         stage('Checkout') { // Fetches source code from GitHub
             steps {
