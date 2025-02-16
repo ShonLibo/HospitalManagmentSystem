@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/Hospital.ui/pom.xml" />
         <option value="$PROJECT_DIR$/Hospital.data/pom.xml" />
         <option value="$PROJECT_DIR$/Hospital.app/pom.xml" />
+        <option value="$PROJECT_DIR$/Integration.Test/pom.xml" />
       </list>
     </option>
   </component>
