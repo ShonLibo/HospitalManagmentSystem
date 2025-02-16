@@ -48,6 +48,11 @@
                         sh 'mvn verify'
                     }
 
+        stage('Package') {  // Generates the JAR file
+                    steps {
+                        sh 'mvn package'
+                    }
+
 
      }
  }
