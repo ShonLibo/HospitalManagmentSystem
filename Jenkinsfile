@@ -118,7 +118,7 @@ pipeline {
             steps {
                 withCredentials([string(credentialsId: 'itchio-api-key', variable: 'BUTLER_API_KEY')]) {
                     sh 'butler login --api-key $BUTLER_API_KEY'
-                    sh 'butler push target/*.jar your-itch-username/your-game-slug:latest'
+                    sh 'butler push target/*.jar Natty50/Hospital Management System :latest --user version 1.0.0''
                 }
             }
         }
