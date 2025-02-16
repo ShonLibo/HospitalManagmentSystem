@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/PanelsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/UIComponentsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HospitalAppMain.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HospitalAppMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -53,23 +54,7 @@
       <recent name="hospital.ui" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PanelsTest.testcreateViewPanel">
-    <configuration name="PanelsTest.testcaseHomePanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hospital.ui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hospital.ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hospital.ui" />
-      <option name="MAIN_CLASS_NAME" value="hospital.ui.PanelsTest" />
-      <option name="METHOD_NAME" value="testcaseHomePanel" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UIComponentsTest.testSwitchPanel">
     <configuration name="PanelsTest.testcreateAppointmentPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hospital.ui" />
       <extension name="coverage">
@@ -102,22 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PanelsTest.testcreatePatientPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hospital.ui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hospital.ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hospital.ui" />
-      <option name="MAIN_CLASS_NAME" value="hospital.ui.PanelsTest" />
-      <option name="METHOD_NAME" value="testcreatePatientPanel" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PanelsTest.testcreateViewPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hospital.ui" />
       <extension name="coverage">
@@ -134,13 +103,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UIComponentsTest.switchPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hospital.ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hospital.ui" />
+      <option name="MAIN_CLASS_NAME" value="hospital.ui.UIComponentsTest" />
+      <option name="METHOD_NAME" value="switchPanel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UIComponentsTest.testSwitchPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hospital.ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hospital.ui" />
+      <option name="MAIN_CLASS_NAME" value="hospital.ui.UIComponentsTest" />
+      <option name="METHOD_NAME" value="testSwitchPanel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UIComponentsTest.testSwitchPanel" />
+        <item itemvalue="JUnit.UIComponentsTest.switchPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateViewPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateAppointmentPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateDoctorPanel" />
-        <item itemvalue="JUnit.PanelsTest.testcreatePatientPanel" />
-        <item itemvalue="JUnit.PanelsTest.testcaseHomePanel" />
       </list>
     </recent_temporary>
   </component>
