@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/UIComponentsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6f07b8b7-f06d-491c-9f01-8dca421b7988" name="Changes" comment="" />
+>>>>>>> cbf9ce52f3917dc5c2eb0fb509f66e47f3202c36
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SamsonNeyo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShonLibo/HospitalManagmentSystem.git&quot;,
+    &quot;accountId&quot;: &quot;0aa178af-251c-44bd-a18d-a51bcea63faf&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hospital.ui/src/test/java/hospital/ui/MenuPanelTest.java" root0="SKIP_INSPECTION" />
   </component>
@@ -39,11 +55,23 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.HospitalAppMain.executor&quot;: &quot;Run&quot;,
+<<<<<<< HEAD
+=======
+    &quot;JUnit.PanelsTest.testcreateViewPanel.executor&quot;: &quot;Run&quot;,
+>>>>>>> cbf9ce52f3917dc5c2eb0fb509f66e47f3202c36
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
+=======
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+>>>>>>> cbf9ce52f3917dc5c2eb0fb509f66e47f3202c36
   }
 }</component>
   <component name="RecentsManager">
@@ -54,7 +82,24 @@
       <recent name="hospital.ui" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.UIComponentsTest.testSwitchPanel">
+=======
+  <component name="RunManager" selected="Application.HospitalAppMain">
+    <configuration name="HospitalAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.app.HospitalAppMain" />
+      <module name="Hospital.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> cbf9ce52f3917dc5c2eb0fb509f66e47f3202c36
     <configuration name="PanelsTest.testcreateAppointmentPanel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hospital.ui" />
       <extension name="coverage">
@@ -137,11 +182,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="JUnit.UIComponentsTest.testSwitchPanel" />
         <item itemvalue="JUnit.UIComponentsTest.switchPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateViewPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateAppointmentPanel" />
         <item itemvalue="JUnit.PanelsTest.testcreateDoctorPanel" />
+=======
+        <item itemvalue="Application.HospitalAppMain" />
+        <item itemvalue="JUnit.PanelsTest.testcreateViewPanel" />
+        <item itemvalue="JUnit.PanelsTest.testcreateAppointmentPanel" />
+        <item itemvalue="JUnit.PanelsTest.testcreateDoctorPanel" />
+        <item itemvalue="JUnit.PanelsTest.testcreatePatientPanel" />
+>>>>>>> cbf9ce52f3917dc5c2eb0fb509f66e47f3202c36
       </list>
     </recent_temporary>
   </component>
